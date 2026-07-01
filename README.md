@@ -67,6 +67,3 @@ After running the final cell, a local web UI launches. Select soil type and plan
 
 ---
 
-## License
-
-MIT
